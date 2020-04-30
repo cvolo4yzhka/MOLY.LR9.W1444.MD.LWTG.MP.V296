@@ -1,0 +1,8 @@
+MTK_DEBUG=0
+MTK_MDGEN=90
+
+# below is the config setting for build flow, do not modify it
+BUILD_MODULE_LIST=( epdg strongswan volte wfca mal verno common install sepolicy )
+OF_PACKING_FILE=of_packing_list
+CUS_PACKING_FILE=cus_packing_list
+PACKING_FILE=packing_list

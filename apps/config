@@ -1,0 +1,14 @@
+NDK_ROOT="./NDK/android-ndk-r14b"
+
+CUS_PACK_RELEASE_PATH="./build/cus_rel"
+
+#we do not support, yet
+#MTK_APP_ABI_32="armeabi-v7a x86 mips"
+#MTK_APP_ABI_64="arm64-v8a x86_64 mips64"
+
+MTK_APP_ABI_32="armeabi-v7a"
+MTK_APP_ABI_64="arm64-v8a"
+
+#mal build error
+#MTK_APP_PLATFORM="android-22"
+MTK_APP_PLATFORM="android-24"
