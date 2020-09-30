@@ -143,7 +143,7 @@ UMTS_RF_MODULE = MT6735_UMTS_FDD_MT6169_CUSTOM
   #   Non-switchable
 
 # ------------------------------ Verno information
-VERNO = MOLY.LR9.W1444.MD.LWTG.MP.V296
+VERNO = MD.LWTG.MP.V296
 BUILD = BUILD_NO
 BRANCH = LR9.W1444.MD.LWTG.MP
 # ------------------------------ System configurations
